@@ -3,6 +3,8 @@ package day001;
 import java.util.Arrays;
 
 /**
+ * 66. Plus One
+ *
  * @author created by sunjy on 1/1/24
  */
 public class PlusOne {
