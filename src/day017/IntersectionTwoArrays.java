@@ -1,5 +1,6 @@
 package day017;
 
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -34,7 +35,7 @@ public class IntersectionTwoArrays {
     public static void main(String[] args) {
         int[] nums1 = new int[]{4, 9, 5};
         int[] nums2 = new int[]{9, 4, 9, 8, 4};
-        System.out.println(intersection(nums1, nums2));
+        System.out.println(Arrays.toString(intersection(nums1, nums2)));
     }
 
 }
