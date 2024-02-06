@@ -32,6 +32,6 @@ public class ValidPerfectSquare {
     }
 
     public static void main(String[] args) {
-        System.out.println(isPerfectSquare());
+        System.out.println(isPerfectSquare(16));
     }
 }
