@@ -3,6 +3,8 @@ package day033;
 import java.util.Arrays;
 
 /**
+ * 34. Find First and Last Position of Element in Sorted Array
+ *
  * @author created by sunjy on 2/2/24
  */
 public class SearchForRange {
